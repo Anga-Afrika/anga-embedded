@@ -4,8 +4,8 @@ import network, utime, machine
 import ubinascii
 from umqtt.simple import MQTTClient
 
-SSID = "Emmanuel777"
-SSID_PASSWORD = "Emmanuel111"
+SSID = "RIZZY"
+SSID_PASSWORD = "njihia2002"
 
 def do_connect():
     sta_if = network.WLAN(network.STA_IF)
